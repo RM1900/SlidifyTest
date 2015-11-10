@@ -1,8 +1,8 @@
 ---
-title       : test
+title       : Test Publishing from Slidify
 subtitle    : 
-author      : 
-job         : 
+author      : Robert Merriman
+job         : Principal Data Scientist
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
